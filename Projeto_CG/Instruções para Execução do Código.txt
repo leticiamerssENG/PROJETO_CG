@@ -1,5 +1,0 @@
-Intruções:
-
-Na pasta do projeto se encontra o arquivo no formato ipynb que se trata do código e também o script do padrão a ser procurado nas imagens e também algumas imagens para fins de teste, para execução basta rodar o código e fazer os testes com as respectivas imagens salvas na pasta do projeto.
-
-
